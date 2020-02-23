@@ -1,0 +1,8 @@
+My Responses:
+1. Data travels on the internet by bits and bytes. These are then sent by electricity, light, and radio. In order to send more bits and bytes, users need more bandwidth.
+
+2. The relationship between an IP address and DNS looks like a neighbor knocking at your door. The Domain Name System is the home, and the IP address is the neighbor knocking at the door. The reason the neighbor, or IP address, is knocking is because it is seeking to retrieve information at the address, such as images, information, or some type of data. IP addresses are individuals like you and I that are seeking information from a website.
+
+3. A cookie is a tiny piece of data that is often sitting on our computers when we enter websites. When internet surfers are on the internet the cookie is held in memory to be used to market to the user any of their potential interests. For example, I like cooking, so cooking websites, deals, or cooking tools will pop-up.
+
+4. The three basic parts of a URL are protocol, which is mostly known as Hypertext Transfer Protocol. The second part is the domain name, which is known as the website name. For example, www.candyshop.com. Lastly, paths are basic part of URLs. Paths are what take you to the webpage and/or file that you are searching for. 
