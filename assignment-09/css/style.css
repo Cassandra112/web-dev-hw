@@ -1,0 +1,77 @@
+body
+
+* {
+  font-family: verdana;
+  color: #8FBC8F;
+}
+/* This is a comment in css for assignment 9. */
+{
+   font: verdana;
+   font-size: 72pt;
+   color: E9967A;
+   padding: 70px;
+   border: 7px solid Mediumaquamarine;
+
+}
+
+  h2 {
+      color: ;
+      font-size: 72px;
+      position: center;
+      left: 50px;
+      text-align: center
+      font: verdana;
+      font-size: 72pt
+     }
+
+.container {
+  position: left;
+  height: 300px;
+  width:  600px;
+  margin: center;
+}
+
+  h1  {
+color: white;
+}
+
+  h3  {
+    position: absolute;
+    left: 2000px;
+    top: 2000px;
+    width: 700%;
+    height: 1700%;
+
+  }
+
+.square {
+  width: 50%;
+  height: 200px;
+}
+
+.woman {
+    position: absolute;
+    left: 1000px;
+    top: 340px;
+    width: 300%;
+    height: 700%;
+}
+.swirls {
+  position: absolute;
+  height: 300px;
+  width: 100%;
+  opacity: 100%;
+}
+
+.section {
+  background-color: #FFC0CB;
+  height: 500px;
+  width: 100%;
+
+}
+.footer {
+  background-color: #FFFACD;
+  height: 420px;
+  width: 100%;
+  text-align: center;
+}
