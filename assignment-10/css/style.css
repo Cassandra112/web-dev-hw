@@ -1,0 +1,48 @@
+  /* Page Wide */
+  body  {
+    background-color: pink;
+    color: honeydew;
+    padding: 2px;
+    font-family: 'Gotu', sans-serif;
+  }
+
+  /* Paragraph Content */
+  .text {
+    background-color: honeydew;
+    color: pink;
+    padding: 1px;
+
+    line-height: 1.5em;
+  }
+
+  p:first-letter {
+    font-family: 'Stylish', sans-serif;
+    font-size: 3em;
+    font-weight: 1;
+    color: palevioletred;
+  }
+
+
+  /* "Read More" Link */
+  a {
+    background-color: blanchedalmond;
+    color: palevioletred;
+    padding: 3px;
+
+  }
+
+  a:hover {
+    font-style: italic;
+
+  }
+
+  a: visited  {
+    color: tomato;
+
+  }
+
+  a: active {
+    background-color: blue;
+    color: seagreen;
+
+  }
