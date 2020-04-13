@@ -1,0 +1,131 @@
+body {
+  font: Times;
+  color: pink;
+  font-size: 2.25em;
+
+  }
+
+.navigation {
+  background-color: black;
+  width: 300px
+  height: 100%
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  }
+
+.navigation a {
+  text-decoration: none;
+  color: #fff;
+  }
+
+.site-info  {
+  margin: 1em 2em;;
+
+  text-align: center;
+  font-size: 200%;
+  width: 100%;
+  margin: 1em auto;
+  padding: 1em;
+  background-color: #1CCDCA;
+  color: #fff;
+  font-size: 1.25em;
+  font-style: bold;
+  }
+
+.logo {
+  background-color: pink;
+  width: 425px;
+  height: 425px;
+  margin: .50em auto;
+  border: 5px;
+  border-radius: 100%;
+  line-height: 380px;
+  color: black;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 3;
+
+  }
+
+.logo:hover {
+  border: 7px dotted gray;
+
+  }
+
+.title1 {
+  letter-spacing: 15pt;
+  text-decoration: none;
+  font-size: 72pt;
+  border: outset;
+  border-color: gray;
+  font-color: white;
+
+  }
+.mainnavigation  {
+  margin-top: 0em;
+  margin-right: 0em;
+  margin-left: 2em;
+  margin-bottom:  2em;
+  text-transform: capitalize;
+  z-index: 13;
+
+}
+
+.mainnavigation a {
+  display: block;
+  margin: 2em;
+  padding: 5px;
+  border: inset;
+
+}
+  .mainnavigation{
+  margin: auto;
+  padding: 0.10em;
+  min-width: 630px;
+  font-size: 24pt;
+  color: #fff;
+  background-color: pink;
+  line-height: 1em;
+  }
+
+  .mainnavigation:hover {
+  background-color: gray;
+  color: lightgray;
+  }
+
+  .mainnavigation {
+  display: inline;
+  }
+
+  .mainnavigation {
+  display: inline-block;
+  padding: 1.0em;
+
+  }
+
+  .top a:hover {
+  margin-left: 3em;
+  }
+  .slogan {
+     font-style: italic;
+     display: block;
+     border: groove;
+     border-color: pink;
+     background-color: white;
+     padding: 50px;
+     position: absolute;
+     z-index: 10;
+     top: 350px;
+     right: 100px
+
+
+  }
+   .main {
+     background-color: black;
+     overflow: hidden;
+     margin-left: 300px;
+     padding: .5em;
+
+   }
