@@ -1,0 +1,109 @@
+
+
+    /* CSS MENU STYLE-SHEET */
+
+
+    /* Navigation Menu */
+  menu  {
+      margin: 0;
+      padding: 0;
+      background-color: #BFD2D2;
+    }
+
+  /* Top Level Links */
+  #site-links {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+  }
+
+  #site-links .menu-item {
+    width: 6em;
+    padding: .5em 1em;
+    display: inline-block;
+    background-color: #BFD2D2;
+    text-align: center;
+    color: #3A4040;
+  }
+
+  #site-links .menu-item:hover  {
+    background-color: #BFD2D2;
+    color: #747F7F;
+    text-decoration: underline;
+    text-decoration-color:  #BFD2D2;
+    text-decoration-style: double;
+  }
+
+  /* Drop-Down */
+  #site-links .dropdown {
+    display: inline-block;
+    width: 2em;
+  }
+
+  #site-links .dropdown-content {
+    display: none;
+    postion: absolute;
+    background-color: #BFD2D2;
+    z-index: 15;
+  }
+
+  #site-links .dropdown-content a {
+    color: white;
+  }
+
+  #site-links .dropdown-content a:hover {
+    color: #BFD2D2;
+    font-weight: 900;
+  }
+
+  #site-links .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  #site-links .dropdown-item  {
+    min-width: 6em;
+    padding: .5em 1em;
+    display: block;
+    text-align: center;
+  }
+
+  .dropdown-item:hover  {
+    background-color: white;
+  }
+
+/* Social Media Websites */
+  #social-links {
+    padding: .5em;
+    display: inline-block;
+    float: right;
+}
+
+  #social-links .social-item  {
+    margin: 0;
+  }
+
+  #social-links img {
+    width: 70px;
+    height: 70px;
+    margin: 12.5px;
+    opacity: .5;
+    margin-top: .5em;
+
+
+  }
+
+  #social-links img:hover {
+    opacity: 1;
+
+  }
+
+  .head-bar {
+    text-align: center;
+    text-color: white;
+    position: center;
+    margin: 1.5em;
+    background-color: #BFD2D2;
+    padding-top: .5em;
+    padding-bottom: .5em;
+
+  }

@@ -1,0 +1,140 @@
+
+* {
+    font-family: 'Arvo';
+}
+
+  .body  {
+    position: right;
+    background-color: #black;
+
+  }
+
+  /* Home Page */
+
+  .head-bar {
+    text-align: center;
+    text-color: white;
+    position: center;
+    margin: 2em;
+    background-color: #BFD2D2;
+    padding-top: .5em;
+    padding-bottom: .5em;
+
+  }
+  .contact-body {
+    color: white;
+    background-color: #BFD2D2;
+    min-width: inherit;
+    max-width:  inherit;
+    max-height: inherit;
+
+    }
+
+    .first-picture  {
+      position: center;
+      position: relative;
+      top: 1em;
+      left: 420px;
+
+
+  }
+  .body-text  {
+    position: center;
+  }
+    /* Contact Page */
+
+
+  .contact-heading  {
+    text-align: center;
+    text-color: white;
+    position: center;
+    margin: 2em;
+    background-color: #BFD2D2;
+    padding-top: .5em;
+    padding-bottom: .5em;
+
+  }
+
+  .contact-body  {
+    color: #BFD2D2
+    position: absolute;
+    max-height: 1300px;
+
+}
+  .address  {
+    width: 27%;
+    text-align: center;
+    padding: 1em;
+    margin: auto;
+    font: arial;
+    font-size: 32pt;
+    font-weight: bold;
+    padding-top: 1em;
+    border-style: outset;
+    border-color: white;
+
+  }
+  .table  {
+    width: 27%;
+    text-align: center;
+    padding: 1em;
+    margin: auto;
+    font: arial;
+    font-size: 32pt;
+    font-weight: bold;
+    padding-top: 1em;
+    border-style: outset;
+    border-color: white;
+
+  }
+  .inquiries  {
+    width: 27%;
+    text-align: center;
+    padding: 1em;
+    margin: auto;
+    font: arial;
+    font-size: 22pt;
+    font-weight: bold;
+    padding-top: 1em;
+    border-style: outset;
+    border-color: white;
+
+  }
+
+    /* About Page */
+
+    .second-picture  {
+      position: center;
+      position: relative;
+      top: 5em;
+      left: 700px;
+      right: 200px;
+      margin-bottom: 3em;
+    }
+
+    .paragraph-border {
+      padding-top: 1em;
+      margin: 3em;
+
+    }
+
+    /* Services Page */
+
+    .third-picture  {
+      position: center;
+      position: relative;
+      left: 2100px;
+      right: 200px;
+
+    }
+
+    .box-border {
+      text-align: center;
+      padding: .5em;
+      position: right;
+      font: arial;
+      font-weight: bold;
+      font-color: #747F7F;
+      font-color: white;
+
+    }
