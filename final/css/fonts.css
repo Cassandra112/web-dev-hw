@@ -64,3 +64,23 @@
       font-stretch: extra-expanded;
 
     }
+
+    /*Body of Services Page*/
+
+    .inquiries {
+      font: times;
+      font-variant: small-caps;
+      position: center;
+      font-size: 30pt;
+      font-stretch: extra-expanded;
+    }
+
+    .bottom-line {
+      font: verdana;
+      font-variant: small-caps;
+      position: absolute;
+      font-size: 30pt;
+      font-stretch: extra-expanded;
+      margin-bottom: 1em;
+
+    }

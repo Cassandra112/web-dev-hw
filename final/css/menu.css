@@ -161,4 +161,24 @@
 
   /* CONTACT US PAGE */
 
-  
+  .inquiries  {
+    margin-top:  -19em;
+    margin-left: 45em;
+    margin-right: 15em;
+    margin-bottom:  15em;
+  }
+
+  .bottom-line  {
+    margin-top: .5em;
+    margin-left: 9em;
+
+  }
+
+  .flowers {
+    position: top;
+     opacity: .5%;
+
+
+
+
+  }

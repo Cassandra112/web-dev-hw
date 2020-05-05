@@ -40,12 +40,6 @@
 
     }
 
-
-
-
-
-
-
   .body-text  {
     position: center;
     }
@@ -65,9 +59,7 @@
     padding-bottom: 15em;
   }
 
-  .firstpicture {
 
-  }
     /* Contact Page */
 
   .contact-heading  {
@@ -77,111 +69,19 @@
     margin: .0001em;
     background-color: black;;
     padding-top: .01em;
-    padding-bottom: .5em;
-
-  }
-
-  .contact-body  {
-    color: #dc143c
-    position: absolute;
-    max-height: 1300px;
+    padding-bottom: 25em;
     }
 
     .contact-body {
       color: white;
       background-color: black;
-      }
-
-  .address  {
-    width: 27%;
-    text-align: center;
-    padding: 1em;
-    margin: auto;
-    font: arial;
-    font-size: 32pt;
-    font-weight: bold;
-    padding-top: 1em;
-    border-style: outset;
-    border-color: white;
-
+      z-index: 1em;
+      margin: 0px 0px 0px 0px;
+      padding-bottom: 20%;
   }
-
-  .inquiries  {
-    width: 27%;
-    text-align: left;
-    padding: 1em;
-    margin: auto;
-    font: arial;
-    font-size: 22pt;
-    font-weight: bold;
-    align-items: flex-start;
-    padding-top: 1em;
-    border-style: outset;
-    border-color: white;
-
-  }
-
-  .button {
-    margin: -15px -10px 10px 1px;
-  }
-
-
-
-    /* About Page */
-
-    .body-2 {
-      background-color: black;
+    .flowers  {
       position: fixed;
-      top: 100px;
-      left: 10px;
-      max-width: inherit;
-      max-height: inherit;
-      maxlength: inherit;
-      font-size: 2em;
-      text-align: center;
-      color: white;
-      padding-top: 20em;
-      padding-bottom: 15em;
+     padding-top: -13em;
 
-    }
-
-    .second-picture  {
-      position: absolute;
-      position: relative;
-      top: 5em;
-      left: 700px;
-      right: 200px;
-      margin-bottom: 3em;
-      z-index: 1;
-    }
-
-    .paragraph-border {
-      padding-top: 1em;
-      margin: 3em;
-      margin: 20px 200px 250px 100px;
-      font-color: white;
-      background-color: lightgray;
-      top: 100px;
-
-    }
-
-    /* Services Page */
-
-    .third-picture  {
-      position: center;
-      position: relative;
-      left: 2100px;
-      right: 200px;
-
-    }
-
-    .box-border {
-      text-align: center;
-      padding: .5em;
-      position: right;
-      font: arial;
-      font-weight: bold;
-      font-color: #747F7F;
-      font-color: white;
 
     }
