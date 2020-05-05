@@ -1,22 +1,18 @@
 
 * {
     font-family: 'Arvo';
-
-
-}
+  }
 
   .body  {
     position: right;
-    background-color: #dc143c;
-
+    background-color: #black;
   }
 
   /* Home Page */
 
   .main-container {
-    color: #DC143C;
+    color: black;
     font-size: 23;
-
   }
 
   .head-bar {
@@ -24,7 +20,7 @@
     text-color: white;
     position: center;
     margin: 2em;
-    background-color: #DC143C;
+    background-color: black;
     padding-top: .5em;
     padding-bottom: .5em;
   }
@@ -37,7 +33,15 @@
     top: 60px;
     background-color: floralwhite;
     margin: 10px 50px 10px 50px;
+    }
 
+    .banner-message {
+      .main-container
+      font: verdana;
+      font-variant: small-caps;
+      font-size: 16pt;
+      font-stretch: extra-expanded;
+      font-color: white;
     }
 
   .body-text  {
@@ -45,7 +49,7 @@
     }
 
   .body-body  {
-    background-color: #dc143c;
+    background-color: black;
     position: fixed;
     top: 100px;
     left: 10px;
@@ -78,10 +82,13 @@
       z-index: 1em;
       margin: 0px 0px 0px 0px;
       padding-bottom: 20%;
+      padding-top: -20%;
   }
     .flowers  {
-      position: fixed;
+      position: absolute;
       opacity: inherit;
+    }
 
-
+    .bottom-line{
+      margin: 250px 225px -19px 250px;
     }

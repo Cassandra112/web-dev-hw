@@ -3,6 +3,23 @@
     font-color: white;
   }
 
+  .banner-message {
+    
+      font: verdana;
+      font-variant: small-caps;
+      font-size: 16pt;
+      font-stretch: extra-expanded;
+      font-color: white;
+  }
+
+  .main-container {
+    font: verdana;
+    font-variant: small-caps;
+    font-size: 16pt;
+    font-stretch: extra-expanded;
+
+  }
+
 
 .head-bar {
   font: lucida;
