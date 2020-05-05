@@ -1,0 +1,66 @@
+  * .fonts {
+
+    font-color: white;
+  }
+
+
+.head-bar {
+  font: lucida;
+  font-color: white;
+  background-color: #0D0D0D;
+  position: center;
+  font-size: 40pt;
+  font-stretch: extra-expanded;
+  font-style: oblique;
+
+}
+
+.contact-heading  {
+  font: lucida;
+  font-color: white;
+  background-color: #0D0D0D;
+  position: center;
+  font-size: 20pt;
+  font-stretch: extra-expanded;
+
+}
+
+.address  {
+  postion: center;
+  top: 13em;
+  left: 5em;
+}
+
+.body-body  {
+
+  font-size: 18pt;
+  font-style: normal;
+  text-transform: capitalize;
+}
+
+
+/*Body of Services Page*/
+
+.third-picture  {
+  font: lucida;
+  float: left;
+  position: center;
+  font-size: 30pt;
+  font-stretch: extra-expanded;
+  font-style: italic;
+  background-color: #BFD2D2;
+  border: 12pt;
+  border-width: 35px;
+
+
+}
+    /*ABOUT PAGE*/
+
+    .paragraph-border {
+      font: times;
+      font-variant: small-caps;
+      position: center;
+      font-size: 30pt;
+      font-stretch: extra-expanded;
+
+    }

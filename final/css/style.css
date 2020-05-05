@@ -1,0 +1,187 @@
+
+* {
+    font-family: 'Arvo';
+
+
+}
+
+  .body  {
+    position: right;
+    background-color: #dc143c;
+
+  }
+
+  /* Home Page */
+
+  .main-container {
+    color: #DC143C;
+    font-size: 23;
+
+  }
+
+  .head-bar {
+    text-align: center;
+    text-color: white;
+    position: center;
+    margin: 2em;
+    background-color: #DC143C;
+    padding-top: .5em;
+    padding-bottom: .5em;
+  }
+
+  .white-block {
+    z-index: 8;
+    height: 670px;
+    width: 100;
+    position: absolute;
+    top: 60px;
+    background-color: floralwhite;
+    margin: 10px 50px 10px 50px;
+
+    }
+
+
+
+
+
+
+
+  .body-text  {
+    position: center;
+    }
+
+  .body-body  {
+    background-color: #dc143c;
+    position: fixed;
+    top: 100px;
+    left: 10px;
+    max-width: inherit;
+    max-height: inherit;
+    maxlength: inherit;
+    font-size: 3em;
+    text-align: center;
+    color: #000;
+    padding-top: 20em;
+    padding-bottom: 15em;
+  }
+
+  .firstpicture {
+
+  }
+    /* Contact Page */
+
+  .contact-heading  {
+    text-align: center;
+    text-color: floralwhite;
+    position: center;
+    margin: .0001em;
+    background-color: black;;
+    padding-top: .01em;
+    padding-bottom: .5em;
+
+  }
+
+  .contact-body  {
+    color: #dc143c
+    position: absolute;
+    max-height: 1300px;
+    }
+
+    .contact-body {
+      color: white;
+      background-color: black;
+      }
+
+  .address  {
+    width: 27%;
+    text-align: center;
+    padding: 1em;
+    margin: auto;
+    font: arial;
+    font-size: 32pt;
+    font-weight: bold;
+    padding-top: 1em;
+    border-style: outset;
+    border-color: white;
+
+  }
+
+  .inquiries  {
+    width: 27%;
+    text-align: left;
+    padding: 1em;
+    margin: auto;
+    font: arial;
+    font-size: 22pt;
+    font-weight: bold;
+    align-items: flex-start;
+    padding-top: 1em;
+    border-style: outset;
+    border-color: white;
+
+  }
+
+  .button {
+    margin: -15px -10px 10px 1px;
+  }
+
+
+
+    /* About Page */
+
+    .body-2 {
+      background-color: black;
+      position: fixed;
+      top: 100px;
+      left: 10px;
+      max-width: inherit;
+      max-height: inherit;
+      maxlength: inherit;
+      font-size: 2em;
+      text-align: center;
+      color: white;
+      padding-top: 20em;
+      padding-bottom: 15em;
+
+    }
+
+    .second-picture  {
+      position: absolute;
+      position: relative;
+      top: 5em;
+      left: 700px;
+      right: 200px;
+      margin-bottom: 3em;
+      z-index: 1;
+    }
+
+    .paragraph-border {
+      padding-top: 1em;
+      margin: 3em;
+      margin: 20px 200px 250px 100px;
+      font-color: white;
+      background-color: lightgray;
+      top: 100px;
+
+    }
+
+    /* Services Page */
+
+    .third-picture  {
+      position: center;
+      position: relative;
+      left: 2100px;
+      right: 200px;
+
+    }
+
+    .box-border {
+      text-align: center;
+      padding: .5em;
+      position: right;
+      font: arial;
+      font-weight: bold;
+      font-color: #747F7F;
+      font-color: white;
+
+    }
