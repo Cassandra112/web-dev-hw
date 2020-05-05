@@ -81,7 +81,7 @@
   }
     .flowers  {
       position: fixed;
-     padding-top: -13em;
+      opacity: inherit;
 
 
     }

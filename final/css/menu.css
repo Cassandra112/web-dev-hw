@@ -171,12 +171,16 @@
   .bottom-line  {
     margin-top: .5em;
     margin-left: 9em;
+    margin-bottom: .5em;
 
   }
 
-  .flowers {
-    position: top;
-     opacity: .5%;
+  .flowers img {
+    opacity: 0.2;
+    margin-top:  -42em;
+    margin-left: 1em;
+    margin-right: 15em;
+
 
 
 
