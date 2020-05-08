@@ -15,16 +15,6 @@
     font-size: 23;
   }
 
-  .head-bar {
-    text-align: center;
-    text-color: white;
-    position: center;
-    margin: 2em;
-    background-color: black;
-    padding-top: .5em;
-    padding-bottom: .5em;
-  }
-
   .white-block {
     z-index: 8;
     height: 670px;
@@ -44,11 +34,7 @@
       font-color: white;
     }
 
-  .body-text  {
-    position: center;
-    }
-
-  .body-body  {
+   .body-body  {
     background-color: black;
     position: fixed;
     top: 100px;
@@ -58,10 +44,23 @@
     maxlength: inherit;
     font-size: 3em;
     text-align: center;
-    color: #000;
     padding-top: 20em;
     padding-bottom: 15em;
   }
+
+    /* About Page */
+
+    .about-Bellafiore {
+      z-index: 5;
+       position: absolute;
+       width: 20px;
+       height: 15px;
+       top: 500px;
+       right: 2850px;
+       adding-top: 15em;
+       padding-bottom: .5em;
+
+    }
 
 
     /* Contact Page */
@@ -73,22 +72,28 @@
     margin: .0001em;
     background-color: black;;
     padding-top: .01em;
-    padding-bottom: 25em;
+    padding-bottom: -20em;
+    }
+
+    .inquiries {
+      font: times;
+      font-variant: small-caps;
+      position: absolute;
+      font-size: 30pt;
+      font-stretch: extra-expanded;
+      margin-left: 2000px;
+      margin-top: -1900px;
     }
 
     .contact-body {
       color: white;
       background-color: black;
-      z-index: 1em;
+      z-index: 1;
       margin: 0px 0px 0px 0px;
       padding-bottom: 20%;
-      padding-top: -20%;
-  }
-    .flowers  {
-      position: absolute;
-      opacity: inherit;
-    }
+      padding-top: 0%;
+   }
 
-    .bottom-line{
+    .bottom-line  {
       margin: 250px 225px -19px 250px;
     }

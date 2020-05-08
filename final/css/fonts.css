@@ -1,10 +1,9 @@
   * .fonts {
-
-    font-color: white;
+    color: white;
+    font-color: #FFFFFF;
   }
 
   .banner-message {
-    
       font: verdana;
       font-variant: small-caps;
       font-size: 16pt;
@@ -17,11 +16,9 @@
     font-variant: small-caps;
     font-size: 16pt;
     font-stretch: extra-expanded;
-
   }
 
-
-.head-bar {
+  .head-bar {
   font: lucida;
   font-color: white;
   background-color: #0D0D0D;
@@ -29,24 +26,22 @@
   font-size: 40pt;
   font-stretch: extra-expanded;
   font-style: oblique;
+  }
 
-}
-
-.contact-heading  {
+  .contact-heading  {
   font: lucida;
   font-color: white;
   background-color: #0D0D0D;
   position: center;
   font-size: 20pt;
   font-stretch: extra-expanded;
-
-}
+  }
 
 .address  {
   postion: center;
   top: 13em;
   left: 5em;
-}
+  }
 
 .body-body  {
 
@@ -54,6 +49,21 @@
   font-style: normal;
   text-transform: capitalize;
 }
+
+    /*About Page*/
+
+    .about-us {
+      z-index: 4;
+       position: absolute;
+       width: 20px;
+       height: 15px;
+       top: 500px;
+       right: 2850px;
+       adding-top: 15em;
+       padding-bottom: .5em;
+       color: white;
+    }
+
 
 
 /*Body of Services Page*/
@@ -79,7 +89,18 @@
       position: center;
       font-size: 30pt;
       font-stretch: extra-expanded;
+    }
 
+    .about-Bellafiore {
+      z-index: 5;
+       position: absolute;
+       width: 20px;
+       height: 15px;
+       top: 500px;
+       right: 2850px;
+       adding-top: 15em;
+       padding-bottom: .5em;
+       color: #FFFFFF;
     }
 
     /*Body of Services Page*/
@@ -87,7 +108,7 @@
     .inquiries {
       font: times;
       font-variant: small-caps;
-      position: center;
+      position: absolute;
       font-size: 30pt;
       font-stretch: extra-expanded;
     }

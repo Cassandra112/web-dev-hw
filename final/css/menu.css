@@ -112,14 +112,14 @@
   }
 
   .head-bar {
+    postion: relative
+    z-index: 3;
     text-align: center;
     text-color: white;
     position: top;
-    margin: 1.5em;
-    background-color: #DC143C;
-    padding-top: 15em;
-    padding-bottom: .5em;
-
+    background-color: #black;
+    padding-top: 0em;
+    padding-bottom: 55em;
   }
 
   /* Home Page or Index */
@@ -187,51 +187,70 @@
 
   /* ABOUT PAGE */
 
-  .second-picture {
-    z-index: 5;
-     position: relative;
-     width: 5px;
-     height: 20px;
-     top: 10px;
-     right: 2px;
-     padding-top: -150em;
+  .second-picture  {
+    z-index: 4;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 500px;
+     right: 2850px;
+     adding-top: 15em;
      padding-bottom: .5em;
-     margin: -650px 50px 50px -700px;
-
+     color: white;
   }
+
 
   .paragraph-border {
     font-size: 24;
     font-color: white;
     font-style: italic;
     margin: -650px 50px 50px -100px;
+  }
+
+  .about-Bellafiore {
+    z-index: 5;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 500px;
+     right: 2850px;
+     adding-top: 15em;
+     padding-bottom: .5em;
+     color: #FFFFFF
+  }
+
+  .iframe1  {
+    z-index: 1;
+     position: absolute;
+     top:70em;
+     left: 95em;
+     color: white;
 
   }
 
   /* CONTACT US PAGE */
 
-  .inquiries  {
-    margin-top:  -19em;
-    margin-left: 45em;
-    margin-right: 15em;
-    margin-bottom:  15em;
-  }
-
   .bottom-line  {
     margin-top: .5em;
     margin-left: 9em;
-    margin-bottom: .5em;
+    margin-bottom: -15em;
 
   }
 
   .flowers img {
     opacity: 0.2;
-    margin-top:  -42em;
+    margin-top:  1em;
     margin-left: 1em;
     margin-right: 15em;
-
-
-
-
-
+    margin-bottom: -30em;
+  }
+  .head-frame {
+    postion: relative
+    z-index: 3;
+    text-align: center;
+    text-color: white;
+    position: center;
+    background-color: #black;
+    padding-top: -100em;
+    padding-bottom: 1em;
   }
