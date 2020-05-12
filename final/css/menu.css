@@ -177,11 +177,86 @@
      position: absolute;
      width: 2220px;
      height: 115px;
-     top: 2200px;
+     bottom: -2300px;
      right: 800px;
-     padding-top: 0em;
+     padding-top: 2em;
      padding-bottom: .5em;
      opacity: 0.09;
+  }
+
+
+  /* SERVICES PAGE*/
+
+  .home-shoes4  {
+    z-index: 2;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 2000px;
+     right: 1570px;
+     text-align: center;
+     adding-top: 15em;
+     padding-bottom: .5em;
+  }
+
+  .home-shoes5  {
+    z-index: 3;
+     position: absolute;
+     width: 70px;
+     height: 30px;
+     top: 2000px;
+     right: 300px;
+     left: 500px;
+     text-align: center;
+     adding-top: 15em;
+     padding-bottom: .5em;
+  }
+
+  .home-shoes6  {
+    z-index: 4;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 2000px;
+     right: 800px;
+     adding-top: 15em;
+     padding-bottom: .5em;
+  }
+
+  .home-shoes7  {
+    z-index: 2;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 2900px;
+     right: 1570px;
+     text-align: center;
+     adding-top: 15em;
+     padding-bottom: .5em;
+  }
+
+  .home-shoes8  {
+    z-index: 3;
+     position: absolute;
+     width: 70px;
+     height: 30px;
+     top: 2900px;
+     right: 300px;
+     left: 500px;
+     text-align: center;
+     adding-top: 15em;
+     padding-bottom: .5em;
+  }
+
+  .home-shoes9  {
+    z-index: 6;
+     position: absolute;
+     width: 20px;
+     height: 15px;
+     top: 2900px;
+     right: 800px;
+     adding-top: 15em;
+     padding-bottom: .5em;
   }
 
 

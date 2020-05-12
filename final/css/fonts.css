@@ -3,6 +3,7 @@
     font-color: #FFFFFF;
   }
 
+  
 
   .banner-message {
       font: verdana;
@@ -79,8 +80,90 @@
   border: 12pt;
   border-width: 35px;
 
+  }
 
-}
+  .home-shoes1  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes2  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes3  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes4  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes5  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes6  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes7  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes8  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+  .home-shoes9  {
+    color: white;
+    font: lucida;
+    float: left;
+    position: center;
+    font-size: 30pt;
+    font-stretch: extra-expanded;
+    font-style: italic;
+  }
+
     /*ABOUT PAGE*/
 
     .paragraph-border {
